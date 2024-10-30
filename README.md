@@ -15,8 +15,8 @@ This application predicts the probability of flooding based on weather data. Use
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/flood-prediction-app.git
-   cd flood-prediction-app
+   git clone https://github.com/yourusername/floodSafety.git
+   cd floodSafety
    
 2.Install Required Packages: Make sure you have Python and pip installed. Then, install the required packages:
 pip install -r requirements.txt
